@@ -1,4 +1,4 @@
-# 🛡️ Kriptotizimlar: TLS Sertifikatlash va Xavfsiz Veb-Tizim
+# 🛡️ Kriptotizimlar: TLS Sertifikatlash va Xavfsiz Veb-Tizim.
 
 Ushbu loyiha lokal tarmoqda HTTPS xavfsiz aloqa protokoli ostida ishlovchi veb-tizimni joriy etish, shaxsiy Sertifikatlash Markazi (Root CA) ni tashkil qilish va ma'lumotlarni zamonaviy kriptografik algoritmlar bilan himoyalashga bag'ishlangan.
 
